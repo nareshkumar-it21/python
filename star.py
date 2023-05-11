@@ -4,7 +4,7 @@ def pypro(n):
             print("* ", end="")
         
         print("\r")
-n = int(input("ENTER THE NUMBER : "))
+n = int(input("Enter The Number: "))
 pypro(n)
 
     
